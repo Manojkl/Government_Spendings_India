@@ -76,3 +76,8 @@ Analyzing **government spending** requires a systematic approach to understandin
 
 ### 🔥
 Government spending analysis is not just about **how much is spent**, but **where, why, and how effectively** it is spent.
+
+## Analyze in granular level 
+
+- How much, where, how, and why spent monthly in village level, taluk level, district level, state level and national levels and generate a news letter 
+- Tag it with responsible department, people 
