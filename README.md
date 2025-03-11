@@ -84,7 +84,7 @@ Government spending analysis is not just about **how much is spent**, but **wher
 - How much spend on which communities what is the output and how much each communities contribute to the economy, how much should be spend on what? Check the limits.
 - How much communities benefited 
 - Check how they frame the spending(In scheme name) and how actually they spend.
-- List all the tender takers(details) for the road construction
+- List all the tender takers(details) for the road construction, tag it with all persons and ministers
 
 ## Government planning of finance and flow of money from start to end users
 
