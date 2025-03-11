@@ -81,6 +81,8 @@ Government spending analysis is not just about **how much is spent**, but **wher
 
 - How much, where, how, and why spent monthly in village level, taluk level, district level, state level and national levels and generate a news letter 
 - Tag it with responsible department, people 
+- How much spend on which communities what is the output and how much each communities contribute to the economy, how much should be spend on what? Check the limits.
+- How much communities benefited 
 
 ## Government planning of finance and flow of money from start to end users
 
