@@ -83,6 +83,7 @@ Government spending analysis is not just about **how much is spent**, but **wher
 - Tag it with responsible department, people 
 - How much spend on which communities what is the output and how much each communities contribute to the economy, how much should be spend on what? Check the limits.
 - How much communities benefited 
+- Check how they frame the spending(In scheme name) and how actually they spend.
 
 ## Government planning of finance and flow of money from start to end users
 
