@@ -324,3 +324,8 @@ Conclusion: From Planning to Execution
 
 This structured system ensures that funds reach the intended beneficiaries while minimizing leakage and corruption. However, challenges like bureaucratic delays, corruption, and inefficiencies still exist in fund distribution and project execution.
 
+# Topics 
+
+- District wise contributions to gdp over the years 
+- Spending outcome
+- Government loan amount, interest payments, forecasts for future
