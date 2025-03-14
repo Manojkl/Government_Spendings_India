@@ -329,3 +329,4 @@ This structured system ensures that funds reach the intended beneficiaries while
 - District wise contributions to gdp over the years 
 - Spending outcome
 - Government loan amount, interest payments, forecasts for future
+- Find how many ministers talk how much on work related in parliaments
