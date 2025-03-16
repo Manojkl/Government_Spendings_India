@@ -1,0 +1,59 @@
+# Madhya_Pradesh Districts
+
+|   # | Code[8]   | District[9]   | Headquarters   | Population (2011)   | Area (km2)   | Density (/km2)[9]   |
+|----:|:----------|:--------------|:---------------|:--------------------|:-------------|:--------------------|
+|   1 | AG        | Agar Malwa    | Agar           | 571275              | 2785         | 205                 |
+|   2 | AL        | Alirajpur     | Alirajpur      | 728677              | 3182         | 229                 |
+|   3 | AP        | Anuppur       | Anuppur        | 749521              | 3747         | 200                 |
+|   4 | AS        | Ashoknagar    | Ashoknagar     | 844979              | 4674         | 181                 |
+|   5 | BL        | Balaghat      | Balaghat       | 1701156             | 9229         | 184                 |
+|   6 | BR        | Barwani       | Barwani        | 1385659             | 5432         | 256                 |
+|   7 | BE        | Betul         | Betul          | 1575247             | 10043        | 157                 |
+|   8 | BD        | Bhind         | Bhind          | 1703562             | 4459         | 382                 |
+|   9 | BP        | Bhopal        | Bhopal         | 2368145             | 2772         | 854                 |
+|  10 | BU        | Burhanpur     | Burhanpur      | 756993              | 3427         | 221                 |
+|  11 | CT        | Chhatarpur    | Chhatarpur     | 1762857             | 8687         | 203                 |
+|  12 | CN        | Chhindwara    | Chhindwara     | 2090306             | 11815        | 177                 |
+|  13 | DM        | Damoh         | Damoh          | 1263703             | 7306         | 173                 |
+|  14 | DT        | Datia         | Datia          | 786375              | 2694         | 292                 |
+|  15 | DE        | Dewas         | Dewas          | 1563107             | 7020         | 223                 |
+|  16 | DH        | Dhar          | Dhar           | 2184672             | 8153         | 268                 |
+|  17 | DI        | Dindori       | Dindori        | 704218              | 7427         | 94                  |
+|  18 | GU        | Guna          | Guna           | 1240938             | 6485         | 194                 |
+|  19 | GW        | Gwalior       | Gwalior        | 2030543             | 5465         | 445                 |
+|  20 | HA        | Harda         | Harda          | 570302              | 3339         | 171                 |
+|  21 | nan       | Hoshangabad   | Hoshangabad    | 1240975             | 6698         | 185                 |
+|  22 | IN        | Indore        | Indore         | 3272335             | 3898         | 839                 |
+|  23 | JA        | Jabalpur      | Jabalpur       | 2460714             | 5210         | 472                 |
+|  24 | JH        | Jhabua        | Jhabua         | 1024091             | 6782         | 285                 |
+|  25 | KA        | Katni         | Katni          | 1291684             | 4947         | 261                 |
+|  26 | EN        | Khandwa       | Khandwa        | 1309443             | 7349         | 178                 |
+|  27 | WN        | Khargone      | Khargone       | 1872413             | 8010         | 233                 |
+|  28 | MH        | Maihar        | Maihar         | -                   | -            | -                   |
+|  29 | ML        | Mandla        | Mandla         | 1053522             | 5805         | 182                 |
+|  30 | MS        | Mandsaur      | Mandsaur       | 1339832             | 5530         | 242                 |
+|  31 | MG        | Mauganj       | Mauganj        | -                   | -            | -                   |
+|  32 | MO        | Morena        | Morena         | 1965137             | 4991         | 394                 |
+|  33 | nan       | Narsinghpur   | Narsinghpur    | 1092141             | 5133         | 213                 |
+|  34 | NE        | Neemuch       | Neemuch        | 825958              | 4267         | 194                 |
+|  35 | –         | Niwari        | Niwari         | 404807              | 1170         | 345                 |
+|  36 | PA        | Panna         | Panna          | 1016028             | 7135         | 142                 |
+|  37 | PD        | Pandhurna     | Pandhurna      | -                   | -            | -                   |
+|  38 | RS        | Raisen        | Raisen         | 1331699             | 8466         | 157                 |
+|  39 | RG        | Rajgarh       | Rajgarh        | 1546541             | 6143         | 251                 |
+|  40 | RL        | Ratlam        | Ratlam         | 1454483             | 4861         | 299                 |
+|  41 | RE        | Rewa          | Rewa           | 2363744             | 6314         | 374                 |
+|  42 | SG        | Sagar         | Sagar          | 2378295             | 10252        | 272                 |
+|  43 | ST        | Satna         | Satna          | 2228619             | 7502         | 297                 |
+|  44 | SR        | Sehore        | Sehore         | 1311008             | 6578         | 199                 |
+|  45 | SO        | Seoni         | Seoni          | 1378876             | 8758         | 157                 |
+|  46 | SH        | Shahdol       | Shahdol        | 1064989             | 6205         | 172                 |
+|  47 | SJ        | Shajapur      | Shajapur       | 1512353             | 6196         | 244                 |
+|  48 | SP        | Sheopur       | Sheopur        | 687952              | 6585         | 104                 |
+|  49 | SV        | Shivpuri      | Shivpuri       | 1725818             | 10290        | 168                 |
+|  50 | SI        | Sidhi         | Sidhi          | 1126515             | 10520        | 232                 |
+|  51 | SN        | Singrauli     | Waidhan        | 1178132             | 5672         | 208                 |
+|  52 | TI        | Tikamgarh     | Tikamgarh      | 1444920             | 5055         | 286                 |
+|  53 | UJ        | Ujjain        | Ujjain         | 1986864             | 6091         | 356                 |
+|  54 | UM        | Umaria        | Umaria         | 643579              | 4062         | 158                 |
+|  55 | VI        | Vidisha       | Vidisha        | 1458212             | 7362         | 198                 |
