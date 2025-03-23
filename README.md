@@ -330,3 +330,30 @@ This structured system ensures that funds reach the intended beneficiaries while
 - Spending outcome
 - Government loan amount, interest payments, forecasts for future
 - Find how many ministers talk how much on work related in parliaments
+
+# Contributions to gdp by sectors 
+
+- Main: Services, Industry, Agriculture
+Services Sector
+	•	Finance and Banking: Banking, investment management, insurance, financial advisory services
+	•	Healthcare: Hospitals, clinics, nursing care, pharmaceuticals, biotechnology services
+	•	Education: Schools, colleges, universities, online learning platforms, tutoring services
+	•	Information Technology (IT) and Software: Software development, IT consulting, cloud computing, cybersecurity, data management
+	•	Telecommunications: Mobile networks, internet service providers, broadcasting
+	•	Real Estate: Property management, leasing, real estate brokerage
+	•	Retail and Wholesale: E-commerce platforms, supermarkets, department stores
+	•	Tourism and Hospitality: Hotels, restaurants, travel agencies, event management
+	•	Transportation: Airlines, shipping, logistics, railways, ride-hailing services
+	•	Professional Services: Legal firms, consulting agencies, advertising, marketing, accounting
+	•	Government Services: Public administration, defense, law enforcement, regulatory bodies
+	•	Entertainment and Media: Streaming services, movies, gaming, music, publishing
+
+⸻
+
+Industry Sector
+	•	Manufacturing: Automobiles and aerospace, electronics, textiles and apparel, pharmaceuticals and chemicals, food and beverage, steel and metal production
+	•	Construction: Infrastructure projects (roads, bridges, dams), residential and commercial buildings, urban development
+	•	Energy and Utilities: Electricity generation (coal, natural gas, nuclear, solar, wind), water supply, wastewater management, oil and gas extraction and refining
+	•	Mining and Extraction: Minerals, metals, coal, oil, quarrying, refining
+	•	Heavy Engineering and Machinery: Industrial machinery, robotics, construction equipment
+	•	Logistics and Supply Chain: Warehousing, freight transport, distribution networks
